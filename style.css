@@ -134,9 +134,22 @@ gap: 1rem;
   .ed-image {
       width: 100px;
       height: 30px;
+ }
 
-      
-  }
+ .krk-image {
+    width: 100px;
+    height: 30px;
+}
+
+ .pcb-image {
+    width: 100px;
+    height: 50px;
+}
+
+.kek-image {
+    width: 50px;
+    height: 50px;
+}
 
   .second-row{
     text-align: center;
