@@ -28,6 +28,11 @@ align-content: space-between;
     border-radius: 2px;
 }
 
+.underaw_working_remotely {
+width: 1px;
+height: 1px;
+}
+
 .nav-links {
   list-style: none;
   display: grid;
